@@ -12,13 +12,10 @@
 
 ## 発表
 
-「NFT とは何か」中村翔音  
-[PDF](./resources/NFTとは何か.pdf)
+「[NFT とは何か](./resources/NFTとは何か.pdf)」中村翔音
 
 「mast20 でハッカソンをやるなら」宮本凛
 
-「短歌入門〜良い短歌とは何か〜」知野隼也  
-[PDF](./resources/短歌入門.pdf)
+「[短歌入門〜良い短歌とは何か〜](./resources/短歌入門.pdf)」知野隼也
 
-「Clean Architecture を読んで」池垣隼介  
-[PDF](./resources/Clean%20Architectureを読んで.pdf)
+「[Clean Architecture を読んで](./resources/Clean%20Architectureを読んで.pdf)」池垣隼介
